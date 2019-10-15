@@ -1,3 +1,10 @@
+Agenda Veterinario desarrollada con:
+## Reactjs, Redux, bootstrap y empleando localstorage para guardar los cambios en local
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
